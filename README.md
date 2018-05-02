@@ -2,7 +2,7 @@
 
 Install:
 <pre>
-git clone https://github.com/pratas/griffin
+git clone https://github.com/pratas/griffin.git
 cd griffin/
 </pre>
 
