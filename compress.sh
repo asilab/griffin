@@ -6,7 +6,8 @@ shopt -s globstar
 for x in **/*.jpg; 
   do
   ./paq8kx_v7.exe -8 $x
-  ls -la $x.paq8kx
+  ls -la $x;
+  ls -la $x.paq8kx;
   done
 #
 # ===============================================================================================
