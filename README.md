@@ -9,6 +9,6 @@ cd griffin/
 Run:
 <pre>
 chmod +x run.sh
-./run
+./run.sh
 </pre>
 
