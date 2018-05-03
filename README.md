@@ -1,3 +1,8 @@
+<p align="center"><img src="griffin_logo.pdf"
+alt="GRIFFIN" height="264" border="0" /></p>
+<br>
+
+
 <b>GRIFFIN</b>: Image complexity by compression measurement with PAQ 
 
 Install:
