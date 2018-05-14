@@ -1,5 +1,5 @@
 <p align="center"><img src="griffin_logo.png"
-alt="GRIFFIN" height="264" border="0" /><br>
+alt="GRIFFIN" height="264" border="0" /><br><br>
 <b>GRIFFIN</b>: Image complexity by compression measurement with PAQ </p>
 <br>
 
